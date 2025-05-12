@@ -15,7 +15,13 @@
 
 - 📊 [Olympics Gender Analysis](https://github.com/mahaibrahim26/Women-participation-in-the-Olympics)  
   120 years of Olympic history analyzed in Python — report, notebook, and visuals.
+  
+- 🎮 [Video Games and the Male Gaze](https://github.com/Ayesha-Jan/Video-Games-And-The-Male-Gaze)  
+  A collaborative research + visualization project analyzing gender representation in video games.
 
+- 🚦 [Traffic Light Simulation (Java)](https://github.com/mahaibrahim26/Traffic-Light)  
+  A basic Java GUI project simulating a traffic light using `JFrame` and timers.
+  
 > ⚙️ More projects coming soon...
 
 ---
