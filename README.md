@@ -2,8 +2,8 @@
 
 🎓 Computer Science student at SRH Berlin (BST)  
 📚 Currently in my 3rd semester  
-🧠 Exploring **Data Science**, **Software Engineering**, and **Cybersecurity**  
-🛠️ Languages: Python, C, C++, Java, JavaScript  
+🧠 Exploring **Data Science**, **Software Development**, and **Cybersecurity**  
+🛠️ Languages: Python, C, Java, JavaScript  
 💻 Tools: Flask, SQL, Git, HTML/CSS, Bootstrap, Pandas, Jupyter
 
 ---
@@ -19,8 +19,8 @@
 - 🎮 [Video Games and the Male Gaze](https://github.com/Ayesha-Jan/Video-Games-And-The-Male-Gaze)  
   A collaborative research + visualization project analyzing gender representation in video games.
 
-- 🚦 [Traffic Light Simulation (Java)](https://github.com/mahaibrahim26/Traffic-Light)  
-  A basic Java GUI project simulating a traffic light using `JFrame` and timers.
+- 🚦 [Traffic Light Simulation (JavaScript)](https://github.com/mahaibrahim26/Traffic-Light)  
+  A basic JavaScript GUI project simulating a traffic light using `JFrame` and timers.
   
 > ⚙️ More projects coming soon...
 
@@ -38,8 +38,9 @@
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/mahaibrahim26)
-- [LinkedIn](https://linkedin.com/in/yourname) ← Add this if you have one
+- [LinkedIn](https://linkedin.com/in/yourname)
 - 📫 Email: Maha.Ibrahim@stud.srh-campus-berlin.de
+  mahasherif2604@gmail.com
 
 ---
 
