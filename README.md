@@ -38,7 +38,7 @@
 ## 🌐 Connect with Me
 
 - [GitHub](https://github.com/mahaibrahim26)
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [LinkedIn]([https://www.linkedin.com/in/maha-ibrahim-902797363/])
 - 📫 Email: Maha.Ibrahim@stud.srh-campus-berlin.de
   mahasherif2604@gmail.com
 
