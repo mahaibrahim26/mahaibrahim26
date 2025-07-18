@@ -2,7 +2,7 @@
 
 🎓 Computer Science student at SRH Berlin (BST)  
 📚 Currently in my 3rd semester  
-🧠 Exploring **Data Science**, **Software Development**, and **Cybersecurity**  
+🧠 Exploring **Data Science** and **Software Development**
 🛠️ Languages: Python, C, Java, JavaScript  
 💻 Tools: Flask, SQL, Git, HTML/CSS, Bootstrap, Pandas, Jupyter
 
@@ -19,10 +19,10 @@
 - 🎮 [Video Games and the Male Gaze](https://github.com/Ayesha-Jan/Video-Games-And-The-Male-Gaze)  
   A collaborative research + visualization project analyzing gender representation in video games.
 
-- 🚦 [Traffic Light Simulation (JavaScript)](https://github.com/mahaibrahim26/Traffic-Light)  
+- 🚦 [Traffic Light Simulation](https://github.com/mahaibrahim26/Traffic-Light)  
   A basic JavaScript GUI project simulating a traffic light using `JFrame` and timers.
 
-- 💬 [PyTalk - Chat App with GUI] (https://github.com/mahaibrahim26/PyTalk)
+- 💬 [PyTalk - Chat App with GUI](https://github.com/mahaibrahim26/PyTalk)
   A socket-based multi-user chat application built with Python and Tkinter.  
   Includes admin commands (/kick, /ban), real-time user list, timestamps, and chat history logging.
 > ⚙️ More projects coming soon...
@@ -34,7 +34,6 @@
 - SQLAlchemy + databases  
 - Machine Learning with scikit-learn  
 - JavaScript DOM and dynamic frontends  
-- Security concepts for ethical hacking
 
 ---
 
