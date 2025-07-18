@@ -21,7 +21,10 @@
 
 - 🚦 [Traffic Light Simulation (JavaScript)](https://github.com/mahaibrahim26/Traffic-Light)  
   A basic JavaScript GUI project simulating a traffic light using `JFrame` and timers.
-  
+
+- 💬 [PyTalk - Chat App with GUI] (https://github.com/mahaibrahim26/PyTalk)
+  A socket-based multi-user chat application built with Python and Tkinter.  
+  Includes admin commands (/kick, /ban), real-time user list, timestamps, and chat history logging.
 > ⚙️ More projects coming soon...
 
 ---
