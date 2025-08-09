@@ -10,8 +10,9 @@
 
 ## 🚀 Projects
 
-- 📝 [Task Manager Web App](https://github.com/mahaibrahim26/flask-task-manager)  
-  A Flask + SQLite app with user login, dark mode, due dates & priority levels.
+- 🌱 [Focus Tree – Productivity App](https://github.com/mahaibrahim26/FocusApp)
+A Flutter-based app combining the Pomodoro technique with a motivational seed-growth visual.
+Features task management, persistent data storage, smooth orbit animations, and cross-platform notifications.
 
 - 📊 [Olympics Gender Analysis](https://github.com/mahaibrahim26/Women-participation-in-the-Olympics)  
   120 years of Olympic history analyzed in Python — report, notebook, and visuals.
@@ -25,6 +26,9 @@
 - 💬 [PyTalk - Chat App with GUI](https://github.com/mahaibrahim26/PyTalk)
   A socket-based multi-user chat application built with Python and Tkinter.  
   Includes admin commands (/kick, /ban), real-time user list, timestamps, and chat history logging.
+  
+- 📝 [Task Manager Web App](https://github.com/mahaibrahim26/flask-task-manager)  
+  A Flask + SQLite app with user login, dark mode, due dates & priority levels.
 > ⚙️ More projects coming soon...
 
 ---
