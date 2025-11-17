@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Maha Ibrahim!
 
-🎓 Computer Science student at SRH Berlin (BST)  
-📚 Currently in my 3rd semester  
-🧠 Exploring **Data Science** and **Software Development**
-🛠️ Languages: Python, C, Java, JavaScript  
-💻 Tools: Flask, SQL, Git, HTML/CSS, Bootstrap, Pandas, Jupyter
+Computer Science student at SRH Berlin (BST)  
+Currently in my 4th semester  
+Exploring **Data Science** and **Software Development**
+Languages: Python, C, Java, JavaScript  
+Tools: Flask, SQL, Git, HTML/CSS, Bootstrap, Pandas, Jupyter
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - 🌱 [Focus Tree – Productivity App](https://github.com/mahaibrahim26/FocusApp)
 A Flutter-based app combining the Pomodoro technique with a motivational seed-growth visual.
@@ -33,7 +33,7 @@ Features task management, persistent data storage, smooth orbit animations, and 
 
 ---
 
-## 💡 I’m Currently Learning
+##  I’m Currently Learning
 
 - SQLAlchemy + databases  
 - Machine Learning with scikit-learn  
@@ -41,11 +41,11 @@ Features task management, persistent data storage, smooth orbit animations, and 
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - [GitHub](https://github.com/mahaibrahim26)
 - [LinkedIn](https://www.linkedin.com/in/maha-ibrahim-902797363/)
-- 📫 Email: Maha.Ibrahim@stud.srh-campus-berlin.de
+- Email: Maha.Ibrahim@stud.srh-campus-berlin.de
   mahasherif2604@gmail.com
 
 ---
