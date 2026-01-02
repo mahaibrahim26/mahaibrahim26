@@ -11,8 +11,10 @@ Tools: Flask, SQL, Git, HTML/CSS, Bootstrap, Pandas, Jupyter
 ## Projects
 
 - 🌱 [Focus Tree – Productivity App](https://github.com/mahaibrahim26/FocusApp)
-A Flutter-based app combining the Pomodoro technique with a motivational seed-growth visual.
-Features task management, persistent data storage, smooth orbit animations, and cross-platform notifications.
+  A Flutter-based app combining the Pomodoro technique with a motivational seed-growth visual.
+  Features task management, persistent data storage, smooth orbit animations, and cross-platform notifications.
+- 🏠 [Smart Home Embedded System (IoT)](https://github.com/mahaibrahim26/smart-home-embedded-system)
+  Raspberry Pi–based IoT system integrating sensors, actuators, MQTT, I²C, InfluxDB, and Grafana.
 
 - 📊 [Olympics Gender Analysis](https://github.com/mahaibrahim26/Women-participation-in-the-Olympics)  
   120 years of Olympic history analyzed in Python — report, notebook, and visuals.
