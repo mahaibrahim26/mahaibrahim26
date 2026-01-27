@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maha Ibrahim!
+#  Hi, I'm Maha Ibrahim!
 
 Computer Science student at SRH Berlin (BST)  
 Currently in my 4th semester  
@@ -10,28 +10,28 @@ Tools: Flask, SQL, Git, HTML/CSS, Bootstrap, Pandas, Jupyter
 
 ## Projects
 
-- 🌱 [Focus Tree – Productivity App](https://github.com/mahaibrahim26/FocusApp)
+-  [Focus Tree – Productivity App](https://github.com/mahaibrahim26/FocusApp)
   A Flutter-based app combining the Pomodoro technique with a motivational seed-growth visual.
   Features task management, persistent data storage, smooth orbit animations, and cross-platform notifications.
-- 🏠 [Smart Home Embedded System (IoT)](https://github.com/mahaibrahim26/smart-home-embedded-system)
+-  [Smart Home Embedded System (IoT)](https://github.com/mahaibrahim26/smart-home-embedded-system)
   Raspberry Pi–based IoT system integrating sensors, actuators, MQTT, I²C, InfluxDB, and Grafana.
 
-- 📊 [Olympics Gender Analysis](https://github.com/mahaibrahim26/Women-participation-in-the-Olympics)  
+-  [Olympics Gender Analysis](https://github.com/mahaibrahim26/Women-participation-in-the-Olympics)  
   120 years of Olympic history analyzed in Python — report, notebook, and visuals.
   
-- 🎮 [Video Games and the Male Gaze](https://github.com/Ayesha-Jan/Video-Games-And-The-Male-Gaze)  
+-  [Video Games and the Male Gaze](https://github.com/Ayesha-Jan/Video-Games-And-The-Male-Gaze)  
   A collaborative research + visualization project analyzing gender representation in video games.
 
-- 🚦 [Traffic Light Simulation](https://github.com/mahaibrahim26/Traffic-Light)  
+-  [Traffic Light Simulation](https://github.com/mahaibrahim26/Traffic-Light)  
   A basic JavaScript GUI project simulating a traffic light using `JFrame` and timers.
 
-- 💬 [PyTalk - Chat App with GUI](https://github.com/mahaibrahim26/PyTalk)
+-  [PyTalk - Chat App with GUI](https://github.com/mahaibrahim26/PyTalk)
   A socket-based multi-user chat application built with Python and Tkinter.  
   Includes admin commands (/kick, /ban), real-time user list, timestamps, and chat history logging.
   
-- 📝 [Task Manager Web App](https://github.com/mahaibrahim26/flask-task-manager)  
+-  [Task Manager Web App](https://github.com/mahaibrahim26/flask-task-manager)  
   A Flask + SQLite app with user login, dark mode, due dates & priority levels.
-> ⚙️ More projects coming soon...
+>  More projects coming soon...
 
 ---
 
