@@ -39,10 +39,10 @@ Flask, FastAPI, Git
 
 ## Work Experience
 **Working Student — Automation & Data Engineering** @ Mehrwert GmbH *(Jan 2026 – Present)*  
-- Built AI-powered media automation pipeline using Python, Vertex AI (Gemini 2.5 Flash), and Google Drive API  
-- Developed automated Google Ads reporting for 6 clients using Python, Google Ads API, and GitHub Actions with WIF authentication  
+- Built AI-powered media automation pipeline using Python, Vertex AI , and Google Drive API  
+- Developed automated Google Ads reporting for clients using Python, Google Ads API, and GitHub Actions with WIF authentication  
 - Designed ETL workflows delivering campaign metrics to Google Sheets and Monday.com dashboards  
-- Built monday.com automation scripts (vacation tracker, to-do sync) using Python, GraphQL, and GitHub Actions
+- Built monday.com automation scripts (Urlaub tracker, to-do sync) using Python, GraphQL, and GitHub Actions
 
 ---
 
