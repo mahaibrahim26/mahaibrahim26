@@ -71,6 +71,6 @@ Flask, FastAPI, Git
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahaibrahim26-blue?style=flat&logo=linkedin)](www.linkedin.com/in/maha-ibrahim-902797363)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mahaibrahim26-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/maha-ibrahim-902797363/)
 [![Email](https://img.shields.io/badge/Email-mahasherif2604@gmail.com-red?style=flat&logo=gmail)](mailto:mahasherif2604@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mahaibrahim26-black?style=flat&logo=github)](https://github.com/mahaibrahim26)
