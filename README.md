@@ -38,18 +38,19 @@ Flask, FastAPI, Git
 ---
 
 ## Work Experience
-
 **Working Student — Automation & Data Engineering** @ Mehrwert GmbH *(Jan 2026 – Present)*  
-- Built AI-powered media automation pipeline using Python, Vertex AI, and Google Drive API  
-- Developed automated Google Ads reporting for multiple clients using Python and GitHub Actions  
-- Designed ETL workflows delivering metrics to Google Sheets and Monday.com dashboards
+- Built AI-powered media automation pipeline using Python, Vertex AI (Gemini 2.5 Flash), and Google Drive API  
+- Developed automated Google Ads reporting for 6 clients using Python, Google Ads API, and GitHub Actions with WIF authentication  
+- Designed ETL workflows delivering campaign metrics to Google Sheets and Monday.com dashboards  
+- Built monday.com automation scripts (vacation tracker, to-do sync) using Python, GraphQL, and GitHub Actions
 
 ---
 
 ## Projects
-
-| Project | Technologies | Course |
-|---------|-------------|--------|
+| Project | Technologies | Course / Area |
+|---------|-------------|---------------|
+| [AI In-Car Voice Assistant](https://github.com/mahaibrahim26/ai-voice-copilot) | Python, Raspberry Pi 4, Whisper, TinyLlama, Piper TTS, GPIO | Embedded Systems |
+| [RAG Chatbot](https://github.com/mahaibrahim26/rag-project) | Python, Ollama (llama3.2), ChromaDB, Gradio | AI / NLP |
 | [Smart Home Embedded System](https://github.com/mahaibrahim26/smart-home-embedded-system) | Python, Raspberry Pi, MQTT, InfluxDB, Grafana | Embedded Systems |
 | [Smart Water Management System](https://github.com/mahaibrahim26/Smart-Water-Management) | Python, MQTT, GCP, BigQuery, Looker Studio | IoT & Cloud Computing |
 | [EV Adoption & Clean Electricity Viz](https://github.com/mahaibrahim26/EV-Clean-Electricity-Viz) | Python, D3.js, Leaflet, GeoJSON | Data Visualization |
@@ -60,8 +61,6 @@ Flask, FastAPI, Git
 | [Focus Tree — Productivity App](https://github.com/mahaibrahim26/FocusApp) | Flutter, Dart | Operating Systems |
 | [Video Games and the Male Gaze](https://github.com/Ayesha-Jan/Video-Games-And-The-Male-Gaze) | Python, Data Visualization | Data Analysis |
 | [Traffic Light Simulation](https://github.com/mahaibrahim26/Traffic-Light) | JavaScript | Mechatronics |
-
----
 
 ## Currently Learning
 
